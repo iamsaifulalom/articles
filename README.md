@@ -29,4 +29,5 @@ I love learning in public and connecting with curious minds!
 
 > I’ll keep updating this list as I publish new blogs.
 
-1. [NEXTJS-SEO-OPTIMIZATION](/NEXTJS-SEO-OPTIMIZATION/README.md)
+1. [FREE-HOSTING-MERN-APP](/free-hosting-for-mern-and-nextjs/readme.md)
+2. [NEXTJS-SEO-OPTIMIZATION](/NEXTJS-SEO-OPTIMIZATION/README.md)
